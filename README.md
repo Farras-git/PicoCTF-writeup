@@ -7,4 +7,4 @@ tes
 
 - Gambar
 
-!{img 1}(Web Exploitations/Segitiga.jpg)
+!{img 1}(assets/putin.jpg)
