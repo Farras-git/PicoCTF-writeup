@@ -5,4 +5,6 @@ tes
 
 ## Tutorial Menambahkan Gambar
 
-!{img 1}(web exploitations/segitiga.jpg)
+- Gambar
+
+!{img 1}(Web Exploitations/Segitiga.jpg)
