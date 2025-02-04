@@ -7,4 +7,4 @@ tes
 
 - Gambar
 
-![img 1](assets/putin.jpg)
+![img 1](assets/united.png)
