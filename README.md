@@ -1,12 +1,25 @@
-# PicoCTF
-jadi
-tes
+# PicoCTF WriteUP
+Teknik penyelesain dari beberapa katefori Challenge di PicoCTF
 
 
-## Tutorial Menambahkan Gambar
+# Challenges
 
-- Gambar
+# 📌 Daftar Isi
+- [Pendahuluan](#pendahuluan)
+- [Kategori 1](#kategori-1)
+- [Kategori 2](#kategori-2)
+- [Kesimpulan](#kesimpulan)
 
-![img 1](assets/united.png)
+---
 
-tes
+## Pendahuluan
+Ini adalah bagian pendahuluan...
+
+## Kategori 1
+Ini adalah isi kategori 1...
+
+## Kategori 2
+Ini adalah isi kategori 2...
+
+## Kesimpulan
+Ini adalah bagian kesimpulan...
