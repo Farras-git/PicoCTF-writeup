@@ -5,14 +5,14 @@ Teknik penyelesain dari beberapa katefori Challenge di PicoCTF
 # Challenges
 
 # 📌 Daftar Isi
-- [Web Exploitation](Web Exploitation)
+- [Web Exploitation](Web Exploitation/)
 - [Kategori 1](#kategori-1)
 - [Kategori 2](#kategori-2)
 - [Kesimpulan](#kesimpulan)
 
 ---
 
-## Pendahuluan
+## Web Exploitation
 Ini adalah bagian pendahuluan...
 
 ## Kategori 1
